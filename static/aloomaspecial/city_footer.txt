@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. What can I not put in a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You cannot dispose of hazardous materials in a roll off dumpster in #State. This includes items like liquid paint, asbestos, pesticides, car batteries, tires, and motor oil, which require specialized disposal.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. How do I pay for the rental?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We accept major credit cards and process payment at the time of booking or delivery. Your dumpster rental cost around #State includes the drop-off, pick-up, rental period, and a specific weight allowance.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. How much weight can I put in the bin?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Each container size comes with a weight limit measured in tons. If you exceed this limit, you will be charged an overage fee. We help you estimate the weight when you order a dumpster near me in #State.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. Do you offer same-day delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We strive to accommodate urgent requests whenever possible. If you need dumpster rental services near me around #State immediately, please call us early in the morning to check availability for same-day drop-off.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Do I need a permit?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If the bin is placed on your private driveway, you usually do not need a permit. However, placing a trash container rental in #State on a public street or sidewalk typically requires a permit from the city.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>

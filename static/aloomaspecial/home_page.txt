@@ -1,0 +1,46 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. How much does a dumpster rental cost?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">The price depends on the size of the container, the type of debris, and your location. Dumpster rental prices generally include delivery, pickup, rental duration, and a weight limit. Contact us for a precise quote based on your specific needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. What items are prohibited in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You cannot dispose of hazardous materials, including paint, tires, batteries, asbestos, and motor oil. Placing these items in a waste dumpster rental can lead to significant fines and refusal of service at the landfill.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Do I need a permit for the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">If the bin is placed on your private driveway, a permit is usually not required. However, if you need to place the roll off dumpster on a public street or sidewalk, you will likely need a permit from your local city government.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. How long is the rental period?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Standard rental periods typically range from 7 to 14 days. If you require the dumpster rental for a longer period, we can usually arrange an extension for a small daily fee.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Will the dumpster damage my driveway?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Roll-off bins are heavy, especially when full. We recommend placing plywood boards down before the dumpster delivery to protect your driveway from scratches or cracks. Our drivers are trained to place bins carefully.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">States In USA</h2>
+        <div class="row">
+            aloomaidallfotter
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Most popular cities we serve</h2>
+        <div class="row">
+            aloomaidallfottecity
+        </div>
+        </section>
+    </div>
